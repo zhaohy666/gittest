@@ -1,4 +1,8 @@
 Hiahia
 Dafa
 Fadfjdksfslk
+<<<<<<< HEAD
 dfdasfkjdsklfjdsakl;fdf
+=======
+fdsfad
+>>>>>>> fdsaf
