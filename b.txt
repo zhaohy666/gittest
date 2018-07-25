@@ -2,7 +2,12 @@ Hiahia
 Dafa
 Fadfjdksfslk
 <<<<<<< HEAD
+<<<<<<< HEAD
 dfdasfkjdsklfjdsakl;fdf
 =======
 fdsfad
 >>>>>>> fdsaf
+=======
+fdsfad
+Dsfdsafsd
+>>>>>>> two
