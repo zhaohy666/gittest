@@ -1,13 +1,1 @@
-Hiahia
-Dafa
-Fadfjdksfslk
-<<<<<<< HEAD
-<<<<<<< HEAD
-dfdasfkjdsklfjdsakl;fdf
-=======
-fdsfad
->>>>>>> fdsaf
-=======
-fdsfad
-Dsfdsafsd
->>>>>>> two
+This is a new message a a a a 
